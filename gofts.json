@@ -1,0 +1,26 @@
+[
+  {
+    "giftname": "Golden NFT Key",
+    "gifturl": "https://example.com/products/golden-nft-key",
+    "giftprice": 150,
+    "giftsvgurl": "https://example.com/assets/golden-nft-key.svg"
+  },
+  {
+    "giftname": "Digital Art Frame",
+    "gifturl": "https://example.com/products/digital-art-frame",
+    "giftprice": 90,
+    "giftsvgurl": "https://example.com/assets/digital-art-frame.svg"
+  },
+  {
+    "giftname": "Virtual Concert Ticket",
+    "gifturl": "https://example.com/products/virtual-concert-ticket",
+    "giftprice": 50,
+    "giftsvgurl": "https://example.com/assets/virtual-concert-ticket.svg"
+  },
+  {
+    "giftname": "Exclusive Avatar Outfit",
+    "gifturl": "https://example.com/products/exclusive-avatar-outfit",
+    "giftprice": 120,
+    "giftsvgurl": "https://example.com/assets/exclusive-avatar-outfit.svg"
+  }
+]
